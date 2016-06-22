@@ -1,0 +1,11 @@
+*.dat
+results/
+
+# LaTeX intermediate output files
+
+*.aux
+*.log
+*.bbl
+*.tcc
+*.bak
+*.pdf
